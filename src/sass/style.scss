@@ -4,14 +4,12 @@
 @import 'blocks/buttons';
 @import 'blocks/advantages';
 @import 'blocks/titles';
+@import 'blocks/consultation';
+@import 'blocks/forms';
 
 * {
     font-family: 'Museo Sans Cyrl', sans-serif;
 }
-
-// div {
-//     border: 1px solid cyan;
-// }
 
 .container {
     max-width: 950px;
