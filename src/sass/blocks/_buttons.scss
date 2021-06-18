@@ -8,7 +8,12 @@
     font-size: 12px;
     font-weight: 500;
     text-transform: uppercase;
+    transition: 0.5s all;
     
+    &:hover {
+        box-shadow: 0 0 20px white;
+    }
+
     &_main {
         margin-top: 67px;
         width: 300px;
